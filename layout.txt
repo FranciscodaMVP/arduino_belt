@@ -1,0 +1,7 @@
+servo palanca der = 2
+ultra der = 3, 4
+servo der = 6
+servo izq = 7
+
+servo palanca izq = 8
+ultra izq = 9, 10
